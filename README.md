@@ -1,7 +1,7 @@
 
 ## Olá ✌
 
-JAVA | Spring  | Teste {JUnit e Mockito}  |<br>
+JAVA | Spring  | Testes {JUnit e Mockito}  |<br>
 Flutter | JavaScript | Angular | Kotlin | React | Node JS |  HTML | CSS | <br>
 BANCO DE DADOS {SQLServer, PostgreSQL, Mongodb, Redis, … }  | <br>
 DEVOPS - Cloud {Azure Devops}   | <br>
