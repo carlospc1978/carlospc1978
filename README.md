@@ -6,7 +6,7 @@ Flutter | JavaScript | Angular | Kotlin | React | Node JS |  HTML | CSS | <br>
 BANCO DE DADOS {SQLServer, PostgreSQL, Mongodb, Redis, … }  | <br>
 DEVOPS - Cloud {Azure Devops}   | <br>
 VIRTUAL - Docker | Kubernetes <br>
-MENSAGERIA - RabbitMQ |  ElasticSearch | Grafana | Rancher <br>
+MENSAGERIA - RabbitMQ<br>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlospcartaxo/)
