@@ -1,10 +1,10 @@
 
-## Olá ✌
+# Olá ✌
 
 JAVA | Spring  | Testes {JUnit e Mockito}  |<br>
 Flutter | JavaScript | Angular | Kotlin | React | Node JS |  HTML | CSS | <br>
 BANCO DE DADOS {SQLServer, PostgreSQL, Mongodb, Redis, … }  | <br>
-DEVOPS - Cloud {Azure Devops}   | <br>
+DEVOPS - Cloud {Azure Devops | AWS}   | <br>
 VIRTUAL - Docker | Kubernetes <br>
 MENSAGERIA - RabbitMQ<br>
 
