@@ -4,7 +4,7 @@
 JAVA | Spring  | Micro services | Testes {JUnit e Mockito}  |<br>
 Flutter | JavaScript | Angular | Kotlin | React | Node JS |  HTML | CSS | <br>
 Banco de Dados {SQLServer, PostgreSQL, Mongodb, Redis, … }  | <br>
-DEVOPS - Cloud {Azure Devops | AWS}   | <br>
+DEVOPS - Cloud {Azure Devops | AWS | GKE}   | <br>
 VIRTUAL - Docker | Kubernetes <br>
 MENSAGERIA - RabbitMQ<br>
 
